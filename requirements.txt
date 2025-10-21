@@ -1,3 +1,2 @@
 flask
-pyTelegramBotAPI
-gunicorn  # Better for production
+pyTelegramBotAPI  # Better for production
